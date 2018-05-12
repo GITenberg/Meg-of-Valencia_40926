@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40901'
     url: http://www.gutenberg.org/2009/agents/40901
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40926#Meg-of-Valencia
 gutenberg_issued: '2012-10-03'
 gutenberg_type: Text
 identifiers:
