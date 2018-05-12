@@ -1,0 +1,26 @@
+_repo: Meg-of-Valencia_40926
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40926-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jarrell, Myra Williams
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '40901'
+    url: http://www.gutenberg.org/2009/agents/40901
+description: ''
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Meg, of Valencia
+url: http://www.gutenberg.org/ebooks/40926
